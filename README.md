@@ -15,12 +15,14 @@ A small Node.js terminal app that toggles a “holding” mode, logs keys while 
 
 ## Setup
 Install packages:
-
-`npm install`
+```
+npm install
+```
 
 Configure the webhook (edit `webhook.js` and set your Discord webhook URL):
-
-`const webhook = new WebhookClient({ url: 'https://discord.com/api/webhooks/...' });`
+```
+const webhook = new WebhookClient({ url: 'https://discord.com/api/webhooks/...' });
+```
 
 Run it:
 node main.js
