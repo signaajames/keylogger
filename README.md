@@ -25,4 +25,6 @@ const webhook = new WebhookClient({ url: 'https://discord.com/api/webhooks/...' 
 ```
 
 Run it:
+```
 node main.js
+```
