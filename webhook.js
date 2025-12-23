@@ -3,7 +3,7 @@ import { EmbedBuilder, WebhookClient } from 'discord.js';
 import fs from 'fs';
 
 const webhook = new WebhookClient({
-    url: 'https://discord.com/api/webhooks/1450372291115618430/rok-7A2i-V3Uf1LqOMIQUqQqRtIhOfrHwRRtI9JpU-CsbSXo7X0uDINN5SgR7cJ7MVpn' //replace with your own
+    url: 'https://discord.com/api/webhooks/nuhuh' //replace with your own
 });
 
 
